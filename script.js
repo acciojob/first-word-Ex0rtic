@@ -1,6 +1,7 @@
 function firstWord(s) {
-  // your code here
-}
+    let y=s.trim().split(" ");
+    alert(y[0]);
+  }
 
 // Do not change the code below
 
